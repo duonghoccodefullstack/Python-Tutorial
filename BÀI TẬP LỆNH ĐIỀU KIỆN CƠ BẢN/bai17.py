@@ -1,0 +1,5 @@
+a = float(input("nhập số a: "))
+b = float(input("nhập số b: "))
+c = float(input("nhập số c: "))
+sorted_number = sorted([a,b,c])
+print("Các số theo thứ tự " ,sorted_number)
